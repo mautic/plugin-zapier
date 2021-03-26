@@ -1,5 +1,5 @@
 {
-  "name": "mautic/zapier",
+  "name": "mautic/plugin-zapier",
   "description": "Zapier Plugin",
   "type": "mautic-plugin",
   "version": "1.0",
